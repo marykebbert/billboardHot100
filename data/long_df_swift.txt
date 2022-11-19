@@ -1,0 +1,1423 @@
+song	artist	rank	date
+Tim McGraw	Taylor Swift	86	2006-09-23
+Tim McGraw	Taylor Swift	87	2006-09-30
+Tim McGraw	Taylor Swift	77	2006-10-07
+Tim McGraw	Taylor Swift	72	2006-10-14
+Tim McGraw	Taylor Swift	68	2006-10-21
+Tim McGraw	Taylor Swift	65	2006-10-28
+Tim McGraw	Taylor Swift	61	2006-11-04
+Tim McGraw	Taylor Swift	51	2006-11-11
+Tim McGraw	Taylor Swift	51	2006-11-18
+Tim McGraw	Taylor Swift	47	2006-11-25
+Tim McGraw	Taylor Swift	48	2006-12-02
+Tim McGraw	Taylor Swift	45	2006-12-09
+Tim McGraw	Taylor Swift	44	2006-12-16
+Tim McGraw	Taylor Swift	46	2006-12-23
+Tim McGraw	Taylor Swift	45	2006-12-30
+Tim McGraw	Taylor Swift	48	2007-01-06
+Tim McGraw	Taylor Swift	40	2007-01-13
+Tim McGraw	Taylor Swift	43	2007-01-20
+Tim McGraw	Taylor Swift	40	2007-01-27
+Tim McGraw	Taylor Swift	43	2007-02-03
+Teardrops On My Guitar	Taylor Swift	93	2007-03-24
+Teardrops On My Guitar	Taylor Swift	77	2007-03-31
+Teardrops On My Guitar	Taylor Swift	78	2007-04-07
+Teardrops On My Guitar	Taylor Swift	70	2007-04-14
+Teardrops On My Guitar	Taylor Swift	60	2007-04-21
+Teardrops On My Guitar	Taylor Swift	52	2007-04-28
+Teardrops On My Guitar	Taylor Swift	56	2007-05-05
+Teardrops On My Guitar	Taylor Swift	53	2007-05-12
+Teardrops On My Guitar	Taylor Swift	50	2007-05-19
+Teardrops On My Guitar	Taylor Swift	51	2007-05-26
+Teardrops On My Guitar	Taylor Swift	44	2007-06-02
+Teardrops On My Guitar	Taylor Swift	46	2007-06-09
+Teardrops On My Guitar	Taylor Swift	49	2007-06-16
+Teardrops On My Guitar	Taylor Swift	42	2007-06-23
+Teardrops On My Guitar	Taylor Swift	42	2007-06-30
+Teardrops On My Guitar	Taylor Swift	45	2007-07-07
+Teardrops On My Guitar	Taylor Swift	42	2007-07-14
+Teardrops On My Guitar	Taylor Swift	41	2007-07-21
+Teardrops On My Guitar	Taylor Swift	40	2007-07-28
+Teardrops On My Guitar	Taylor Swift	39	2007-08-04
+Teardrops On My Guitar	Taylor Swift	33	2007-08-11
+Teardrops On My Guitar	Taylor Swift	34	2007-08-18
+Teardrops On My Guitar	Taylor Swift	38	2007-08-25
+Teardrops On My Guitar	Taylor Swift	49	2007-09-01
+Teardrops On My Guitar	Taylor Swift	50	2007-09-08
+Our Song	Taylor Swift	86	2007-10-13
+Our Song	Taylor Swift	67	2007-10-20
+Our Song	Taylor Swift	56	2007-10-27
+Our Song	Taylor Swift	46	2007-11-03
+Our Song	Taylor Swift	39	2007-11-10
+Our Song	Taylor Swift	36	2007-11-17
+Our Song	Taylor Swift	24	2007-11-24
+Our Song	Taylor Swift	28	2007-12-01
+Our Song	Taylor Swift	23	2007-12-08
+Our Song	Taylor Swift	24	2007-12-15
+Teardrops On My Guitar	Taylor Swift	44	2007-12-15
+Our Song	Taylor Swift	22	2007-12-22
+Teardrops On My Guitar	Taylor Swift	30	2007-12-22
+Our Song	Taylor Swift	21	2007-12-29
+Teardrops On My Guitar	Taylor Swift	24	2007-12-29
+Teardrops On My Guitar	Taylor Swift	23	2008-01-05
+Our Song	Taylor Swift	26	2008-01-05
+Our Song	Taylor Swift	17	2008-01-12
+Teardrops On My Guitar	Taylor Swift	19	2008-01-12
+Our Song	Taylor Swift	16	2008-01-19
+Teardrops On My Guitar	Taylor Swift	18	2008-01-19
+Teardrops On My Guitar	Taylor Swift	17	2008-01-26
+Our Song	Taylor Swift	20	2008-01-26
+Teardrops On My Guitar	Taylor Swift	14	2008-02-02
+Our Song	Taylor Swift	16	2008-02-02
+Teardrops On My Guitar	Taylor Swift	15	2008-02-09
+Our Song	Taylor Swift	24	2008-02-09
+Teardrops On My Guitar	Taylor Swift	15	2008-02-16
+Our Song	Taylor Swift	31	2008-02-16
+Teardrops On My Guitar	Taylor Swift	15	2008-02-23
+Our Song	Taylor Swift	29	2008-02-23
+Teardrops On My Guitar	Taylor Swift	13	2008-03-01
+Our Song	Taylor Swift	30	2008-03-01
+Picture To Burn	Taylor Swift	91	2008-03-01
+Teardrops On My Guitar	Taylor Swift	16	2008-03-08
+Our Song	Taylor Swift	35	2008-03-08
+Picture To Burn	Taylor Swift	83	2008-03-08
+Teardrops On My Guitar	Taylor Swift	22	2008-03-15
+Our Song	Taylor Swift	39	2008-03-15
+Picture To Burn	Taylor Swift	73	2008-03-15
+Teardrops On My Guitar	Taylor Swift	20	2008-03-22
+Our Song	Taylor Swift	39	2008-03-22
+Picture To Burn	Taylor Swift	64	2008-03-22
+Teardrops On My Guitar	Taylor Swift	22	2008-03-29
+Our Song	Taylor Swift	39	2008-03-29
+Picture To Burn	Taylor Swift	55	2008-03-29
+Teardrops On My Guitar	Taylor Swift	22	2008-04-05
+Our Song	Taylor Swift	39	2008-04-05
+Picture To Burn	Taylor Swift	51	2008-04-05
+Teardrops On My Guitar	Taylor Swift	26	2008-04-12
+Our Song	Taylor Swift	33	2008-04-12
+Picture To Burn	Taylor Swift	45	2008-04-12
+Teardrops On My Guitar	Taylor Swift	26	2008-04-19
+Our Song	Taylor Swift	28	2008-04-19
+Picture To Burn	Taylor Swift	44	2008-04-19
+Our Song	Taylor Swift	28	2008-04-26
+Teardrops On My Guitar	Taylor Swift	29	2008-04-26
+Picture To Burn	Taylor Swift	36	2008-04-26
+Our Song	Taylor Swift	28	2008-05-03
+Picture To Burn	Taylor Swift	29	2008-05-03
+Teardrops On My Guitar	Taylor Swift	38	2008-05-03
+Picture To Burn	Taylor Swift	29	2008-05-10
+Our Song	Taylor Swift	31	2008-05-10
+Teardrops On My Guitar	Taylor Swift	48	2008-05-10
+Picture To Burn	Taylor Swift	28	2008-05-17
+Our Song	Taylor Swift	29	2008-05-17
+Teardrops On My Guitar	Taylor Swift	49	2008-05-17
+Our Song	Taylor Swift	34	2008-05-24
+Picture To Burn	Taylor Swift	36	2008-05-24
+Our Song	Taylor Swift	39	2008-05-31
+Picture To Burn	Taylor Swift	52	2008-05-31
+Our Song	Taylor Swift	48	2008-06-07
+Picture To Burn	Taylor Swift	71	2008-06-07
+Should've Said No	Taylor Swift	84	2008-06-07
+Our Song	Taylor Swift	48	2008-06-14
+Picture To Burn	Taylor Swift	67	2008-06-14
+Should've Said No	Taylor Swift	84	2008-06-14
+Picture To Burn	Taylor Swift	74	2008-06-21
+Should've Said No	Taylor Swift	75	2008-06-21
+Should've Said No	Taylor Swift	65	2008-06-28
+Picture To Burn	Taylor Swift	80	2008-06-28
+Should've Said No	Taylor Swift	64	2008-07-05
+Picture To Burn	Taylor Swift	82	2008-07-05
+Should've Said No	Taylor Swift	55	2008-07-12
+Picture To Burn	Taylor Swift	89	2008-07-12
+Should've Said No	Taylor Swift	46	2008-07-19
+Should've Said No	Taylor Swift	38	2008-07-26
+Should've Said No	Taylor Swift	34	2008-08-02
+Should've Said No	Taylor Swift	33	2008-08-09
+Should've Said No	Taylor Swift	38	2008-08-16
+Should've Said No	Taylor Swift	37	2008-08-23
+Change	Taylor Swift	10	2008-08-30
+Should've Said No	Taylor Swift	35	2008-08-30
+Change	Taylor Swift	39	2008-09-06
+Should've Said No	Taylor Swift	40	2008-09-06
+Should've Said No	Taylor Swift	51	2008-09-13
+Change	Taylor Swift	100	2008-09-13
+Should've Said No	Taylor Swift	61	2008-09-20
+Love Story	Taylor Swift	16	2008-09-27
+Should've Said No	Taylor Swift	66	2008-09-27
+Love Story	Taylor Swift	5	2008-10-04
+Should've Said No	Taylor Swift	83	2008-10-04
+Love Story	Taylor Swift	9	2008-10-11
+Should've Said No	Taylor Swift	82	2008-10-11
+Love Story	Taylor Swift	13	2008-10-18
+Should've Said No	Taylor Swift	90	2008-10-18
+Love Story	Taylor Swift	14	2008-10-25
+Fearless	Taylor Swift	9	2008-11-01
+Love Story	Taylor Swift	14	2008-11-01
+Love Story	Taylor Swift	15	2008-11-08
+Fearless	Taylor Swift	38	2008-11-08
+You're Not Sorry	Taylor Swift	11	2008-11-15
+Love Story	Taylor Swift	16	2008-11-15
+Fearless	Taylor Swift	79	2008-11-15
+You Belong With Me	Taylor Swift	12	2008-11-22
+Love Story	Taylor Swift	14	2008-11-22
+You're Not Sorry	Taylor Swift	35	2008-11-22
+Fearless	Taylor Swift	98	2008-11-22
+White Horse	Taylor Swift	13	2008-11-29
+Love Story	Taylor Swift	18	2008-11-29
+Forever & Always	Taylor Swift	49	2008-11-29
+The Way I Loved You	Taylor Swift	72	2008-11-29
+Fifteen	Taylor Swift	79	2008-11-29
+Breathe	Taylor Swift Featuring Colbie Caillat	87	2008-11-29
+Hey Stephen	Taylor Swift	94	2008-11-29
+Love Story	Taylor Swift	14	2008-12-06
+White Horse	Taylor Swift	56	2008-12-06
+Love Story	Taylor Swift	12	2008-12-13
+White Horse	Taylor Swift	47	2008-12-13
+Love Story	Taylor Swift	12	2008-12-20
+White Horse	Taylor Swift	52	2008-12-20
+Love Story	Taylor Swift	11	2008-12-27
+White Horse	Taylor Swift	51	2008-12-27
+Love Story	Taylor Swift	7	2009-01-03
+White Horse	Taylor Swift	48	2009-01-03
+Love Story	Taylor Swift	5	2009-01-10
+White Horse	Taylor Swift	41	2009-01-10
+Love Story	Taylor Swift	4	2009-01-17
+White Horse	Taylor Swift	38	2009-01-17
+Love Story	Taylor Swift	5	2009-01-24
+White Horse	Taylor Swift	37	2009-01-24
+Love Story	Taylor Swift	5	2009-01-31
+White Horse	Taylor Swift	35	2009-01-31
+Love Story	Taylor Swift	5	2009-02-07
+White Horse	Taylor Swift	39	2009-02-07
+Love Story	Taylor Swift	5	2009-02-14
+White Horse	Taylor Swift	40	2009-02-14
+Love Story	Taylor Swift	7	2009-02-21
+White Horse	Taylor Swift	39	2009-02-21
+Love Story	Taylor Swift	7	2009-02-28
+White Horse	Taylor Swift	34	2009-02-28
+Fifteen	Taylor Swift	65	2009-02-28
+Love Story	Taylor Swift	8	2009-03-07
+White Horse	Taylor Swift	34	2009-03-07
+Love Story	Taylor Swift	9	2009-03-14
+White Horse	Taylor Swift	30	2009-03-14
+Love Story	Taylor Swift	12	2009-03-21
+White Horse	Taylor Swift	31	2009-03-21
+You're Not Sorry	Taylor Swift	67	2009-03-21
+Love Story	Taylor Swift	13	2009-03-28
+White Horse	Taylor Swift	29	2009-03-28
+You're Not Sorry	Taylor Swift	40	2009-03-28
+Love Story	Taylor Swift	13	2009-04-04
+White Horse	Taylor Swift	32	2009-04-04
+You're Not Sorry	Taylor Swift	95	2009-04-04
+Love Story	Taylor Swift	15	2009-04-11
+White Horse	Taylor Swift	32	2009-04-11
+Crazier	Taylor Swift	72	2009-04-11
+Love Story	Taylor Swift	14	2009-04-18
+White Horse	Taylor Swift	39	2009-04-18
+Crazier	Taylor Swift	69	2009-04-18
+Love Story	Taylor Swift	14	2009-04-25
+Crazier	Taylor Swift	38	2009-04-25
+White Horse	Taylor Swift	44	2009-04-25
+Love Story	Taylor Swift	16	2009-05-02
+Crazier	Taylor Swift	17	2009-05-02
+Love Story	Taylor Swift	18	2009-05-09
+Crazier	Taylor Swift	38	2009-05-09
+Love Story	Taylor Swift	18	2009-05-16
+Crazier	Taylor Swift	61	2009-05-16
+You Belong With Me	Taylor Swift	87	2009-05-16
+Fearless	Taylor Swift	95	2009-05-16
+Love Story	Taylor Swift	21	2009-05-23
+You Belong With Me	Taylor Swift	50	2009-05-23
+Crazier	Taylor Swift	66	2009-05-23
+Love Story	Taylor Swift	24	2009-05-30
+You Belong With Me	Taylor Swift	46	2009-05-30
+Crazier	Taylor Swift	90	2009-05-30
+Love Story	Taylor Swift	34	2009-06-06
+You Belong With Me	Taylor Swift	47	2009-06-06
+Love Story	Taylor Swift	28	2009-06-13
+You Belong With Me	Taylor Swift	41	2009-06-13
+Love Story	Taylor Swift	26	2009-06-20
+You Belong With Me	Taylor Swift	32	2009-06-20
+You Belong With Me	Taylor Swift	18	2009-06-27
+Love Story	Taylor Swift	26	2009-06-27
+You Belong With Me	Taylor Swift	16	2009-07-04
+Love Story	Taylor Swift	29	2009-07-04
+You Belong With Me	Taylor Swift	11	2009-07-11
+Love Story	Taylor Swift	33	2009-07-11
+You Belong With Me	Taylor Swift	9	2009-07-18
+Love Story	Taylor Swift	38	2009-07-18
+You Belong With Me	Taylor Swift	6	2009-07-25
+Love Story	Taylor Swift	41	2009-07-25
+You Belong With Me	Taylor Swift	3	2009-08-01
+Love Story	Taylor Swift	40	2009-08-01
+You Belong With Me	Taylor Swift	4	2009-08-08
+Love Story	Taylor Swift	42	2009-08-08
+You Belong With Me	Taylor Swift	3	2009-08-15
+Love Story	Taylor Swift	46	2009-08-15
+You Belong With Me	Taylor Swift	2	2009-08-22
+Love Story	Taylor Swift	46	2009-08-22
+You Belong With Me	Taylor Swift	4	2009-08-29
+Love Story	Taylor Swift	49	2009-08-29
+You Belong With Me	Taylor Swift	4	2009-09-05
+You Belong With Me	Taylor Swift	5	2009-09-12
+You Belong With Me	Taylor Swift	6	2009-09-19
+You Belong With Me	Taylor Swift	6	2009-09-26
+Two Is Better Than One	Boys Like Girls Featuring Taylor Swift	92	2009-09-26
+You Belong With Me	Taylor Swift	4	2009-10-03
+Fifteen	Taylor Swift	94	2009-10-03
+You Belong With Me	Taylor Swift	6	2009-10-10
+Fifteen	Taylor Swift	89	2009-10-10
+You Belong With Me	Taylor Swift	7	2009-10-17
+Fifteen	Taylor Swift	81	2009-10-17
+You Belong With Me	Taylor Swift	8	2009-10-24
+Fifteen	Taylor Swift	77	2009-10-24
+You Belong With Me	Taylor Swift	10	2009-10-31
+Fifteen	Taylor Swift	67	2009-10-31
+You Belong With Me	Taylor Swift	11	2009-11-07
+Fifteen	Taylor Swift	62	2009-11-07
+Jump Then Fall	Taylor Swift	10	2009-11-14
+You Belong With Me	Taylor Swift	14	2009-11-14
+Untouchable	Taylor Swift	19	2009-11-14
+The Other Side Of The Door	Taylor Swift	23	2009-11-14
+Superstar	Taylor Swift	26	2009-11-14
+Come In With The Rain	Taylor Swift	30	2009-11-14
+Forever & Always	Taylor Swift	34	2009-11-14
+Fifteen	Taylor Swift	46	2009-11-14
+Two Is Better Than One	Boys Like Girls Featuring Taylor Swift	79	2009-11-14
+You Belong With Me	Taylor Swift	13	2009-11-21
+Fifteen	Taylor Swift	38	2009-11-21
+Jump Then Fall	Taylor Swift	41	2009-11-21
+Two Is Better Than One	Boys Like Girls Featuring Taylor Swift	64	2009-11-21
+Untouchable	Taylor Swift	69	2009-11-21
+The Other Side Of The Door	Taylor Swift	94	2009-11-21
+Forever & Always	Taylor Swift	100	2009-11-21
+You Belong With Me	Taylor Swift	14	2009-11-28
+Fifteen	Taylor Swift	26	2009-11-28
+Two Is Better Than One	Boys Like Girls Featuring Taylor Swift	48	2009-11-28
+Jump Then Fall	Taylor Swift	91	2009-11-28
+You Belong With Me	Taylor Swift	15	2009-12-05
+Fifteen	Taylor Swift	26	2009-12-05
+Two Is Better Than One	Boys Like Girls Featuring Taylor Swift	40	2009-12-05
+You Belong With Me	Taylor Swift	18	2009-12-12
+Fifteen	Taylor Swift	27	2009-12-12
+Two Is Better Than One	Boys Like Girls Featuring Taylor Swift	33	2009-12-12
+You Belong With Me	Taylor Swift	18	2009-12-19
+Fifteen	Taylor Swift	23	2009-12-19
+Two Is Better Than One	Boys Like Girls Featuring Taylor Swift	32	2009-12-19
+You Belong With Me	Taylor Swift	22	2009-12-26
+Fifteen	Taylor Swift	27	2009-12-26
+Two Is Better Than One	Boys Like Girls Featuring Taylor Swift	28	2009-12-26
+You Belong With Me	Taylor Swift	22	2010-01-02
+Two Is Better Than One	Boys Like Girls Featuring Taylor Swift	23	2010-01-02
+Fifteen	Taylor Swift	30	2010-01-02
+You Belong With Me	Taylor Swift	19	2010-01-09
+Two Is Better Than One	Boys Like Girls Featuring Taylor Swift	20	2010-01-09
+Fifteen	Taylor Swift	25	2010-01-09
+You Belong With Me	Taylor Swift	17	2010-01-16
+Two Is Better Than One	Boys Like Girls Featuring Taylor Swift	23	2010-01-16
+Fifteen	Taylor Swift	28	2010-01-16
+You Belong With Me	Taylor Swift	16	2010-01-23
+Two Is Better Than One	Boys Like Girls Featuring Taylor Swift	24	2010-01-23
+Fifteen	Taylor Swift	37	2010-01-23
+Two Is Better Than One	Boys Like Girls Featuring Taylor Swift	18	2010-01-30
+You Belong With Me	Taylor Swift	22	2010-01-30
+Fifteen	Taylor Swift	36	2010-01-30
+Today Was A Fairytale	Taylor Swift	2	2010-02-06
+Two Is Better Than One	Boys Like Girls Featuring Taylor Swift	22	2010-02-06
+You Belong With Me	Taylor Swift	27	2010-02-06
+Fifteen	Taylor Swift	40	2010-02-06
+Two Is Better Than One	Boys Like Girls Featuring Taylor Swift	20	2010-02-13
+Today Was A Fairytale	Taylor Swift	22	2010-02-13
+You Belong With Me	Taylor Swift	26	2010-02-13
+Breathless	Taylor Swift	72	2010-02-13
+Two Is Better Than One	Boys Like Girls Featuring Taylor Swift	21	2010-02-20
+You Belong With Me	Taylor Swift	27	2010-02-20
+Today Was A Fairytale	Taylor Swift	39	2010-02-20
+Fearless	Taylor Swift	99	2010-02-20
+Two Is Better Than One	Boys Like Girls Featuring Taylor Swift	23	2010-02-27
+You Belong With Me	Taylor Swift	29	2010-02-27
+Today Was A Fairytale	Taylor Swift	30	2010-02-27
+Fearless	Taylor Swift	97	2010-02-27
+Today Was A Fairytale	Taylor Swift	24	2010-03-06
+Two Is Better Than One	Boys Like Girls Featuring Taylor Swift	29	2010-03-06
+You Belong With Me	Taylor Swift	35	2010-03-06
+Two Is Better Than One	Boys Like Girls Featuring Taylor Swift	29	2010-03-13
+Today Was A Fairytale	Taylor Swift	31	2010-03-13
+You Belong With Me	Taylor Swift	33	2010-03-13
+Fearless	Taylor Swift	94	2010-03-13
+Today Was A Fairytale	Taylor Swift	30	2010-03-20
+Two Is Better Than One	Boys Like Girls Featuring Taylor Swift	35	2010-03-20
+You Belong With Me	Taylor Swift	36	2010-03-20
+Fearless	Taylor Swift	87	2010-03-20
+Today Was A Fairytale	Taylor Swift	30	2010-03-27
+You Belong With Me	Taylor Swift	39	2010-03-27
+Two Is Better Than One	Boys Like Girls Featuring Taylor Swift	48	2010-03-27
+Fearless	Taylor Swift	77	2010-03-27
+Today Was A Fairytale	Taylor Swift	35	2010-04-03
+You Belong With Me	Taylor Swift	45	2010-04-03
+Fearless	Taylor Swift	77	2010-04-03
+Today Was A Fairytale	Taylor Swift	36	2010-04-10
+You Belong With Me	Taylor Swift	45	2010-04-10
+Fearless	Taylor Swift	76	2010-04-10
+Today Was A Fairytale	Taylor Swift	38	2010-04-17
+You Belong With Me	Taylor Swift	50	2010-04-17
+Fearless	Taylor Swift	76	2010-04-17
+Today Was A Fairytale	Taylor Swift	41	2010-04-24
+Fearless	Taylor Swift	78	2010-04-24
+Today Was A Fairytale	Taylor Swift	56	2010-05-01
+Fearless	Taylor Swift	84	2010-05-01
+Today Was A Fairytale	Taylor Swift	65	2010-05-08
+Today Was A Fairytale	Taylor Swift	81	2010-05-15
+Today Was A Fairytale	Taylor Swift	85	2010-05-22
+Today Was A Fairytale	Taylor Swift	96	2010-05-29
+Today Was A Fairytale	Taylor Swift	97	2010-06-05
+Mine	Taylor Swift	3	2010-08-21
+Mine	Taylor Swift	8	2010-08-28
+Mine	Taylor Swift	14	2010-09-04
+Mine	Taylor Swift	9	2010-09-11
+Mine	Taylor Swift	7	2010-09-18
+Mine	Taylor Swift	10	2010-09-25
+Mine	Taylor Swift	12	2010-10-02
+Mine	Taylor Swift	11	2010-10-09
+Mine	Taylor Swift	12	2010-10-16
+Speak Now	Taylor Swift	8	2010-10-23
+Mine	Taylor Swift	14	2010-10-23
+Back To December	Taylor Swift	6	2010-10-30
+Mine	Taylor Swift	14	2010-10-30
+Speak Now	Taylor Swift	45	2010-10-30
+Mean	Taylor Swift	11	2010-11-06
+Mine	Taylor Swift	13	2010-11-06
+Back To December	Taylor Swift	30	2010-11-06
+Speak Now	Taylor Swift	86	2010-11-06
+Sparks Fly	Taylor Swift	17	2010-11-13
+Mine	Taylor Swift	21	2010-11-13
+Innocent	Taylor Swift	27	2010-11-13
+The Story Of Us	Taylor Swift	41	2010-11-13
+Dear John	Taylor Swift	54	2010-11-13
+Better Than Revenge	Taylor Swift	56	2010-11-13
+Haunted	Taylor Swift	63	2010-11-13
+Last Kiss	Taylor Swift	71	2010-11-13
+Enchanted	Taylor Swift	75	2010-11-13
+Never Grow Up	Taylor Swift	84	2010-11-13
+Long Live	Taylor Swift	85	2010-11-13
+Mine	Taylor Swift	16	2010-11-20
+Sparks Fly	Taylor Swift	78	2010-11-20
+Mine	Taylor Swift	23	2010-11-27
+Back To December	Taylor Swift	74	2010-11-27
+Mine	Taylor Swift	33	2010-12-04
+Back To December	Taylor Swift	67	2010-12-04
+Mine	Taylor Swift	37	2010-12-11
+Back To December	Taylor Swift	47	2010-12-11
+Back To December	Taylor Swift	43	2010-12-18
+Mine	Taylor Swift	47	2010-12-18
+Back To December	Taylor Swift	34	2010-12-25
+Mine	Taylor Swift	50	2010-12-25
+Back To December	Taylor Swift	26	2011-01-01
+Mine	Taylor Swift	52	2011-01-01
+Back To December	Taylor Swift	27	2011-01-08
+Mine	Taylor Swift	42	2011-01-08
+Back To December	Taylor Swift	25	2011-01-15
+Mine	Taylor Swift	31	2011-01-15
+Back To December	Taylor Swift	25	2011-01-22
+Mine	Taylor Swift	50	2011-01-22
+Back To December	Taylor Swift	26	2011-01-29
+Back To December	Taylor Swift	22	2011-02-05
+Back To December	Taylor Swift	18	2011-02-12
+Back To December	Taylor Swift	20	2011-02-19
+Back To December	Taylor Swift	24	2011-02-26
+Back To December	Taylor Swift	24	2011-03-05
+Back To December	Taylor Swift	29	2011-03-12
+Back To December	Taylor Swift	32	2011-03-19
+Back To December	Taylor Swift	37	2011-03-26
+Mean	Taylor Swift	90	2011-04-09
+Mean	Taylor Swift	67	2011-04-16
+Mean	Taylor Swift	48	2011-04-23
+Mean	Taylor Swift	51	2011-04-30
+Mean	Taylor Swift	50	2011-05-07
+Mean	Taylor Swift	54	2011-05-14
+Mean	Taylor Swift	46	2011-05-21
+Mean	Taylor Swift	37	2011-05-28
+The Story Of Us	Taylor Swift	98	2011-05-28
+Mean	Taylor Swift	34	2011-06-04
+The Story Of Us	Taylor Swift	88	2011-06-04
+Mean	Taylor Swift	39	2011-06-11
+The Story Of Us	Taylor Swift	77	2011-06-11
+Mean	Taylor Swift	33	2011-06-18
+The Story Of Us	Taylor Swift	72	2011-06-18
+Mean	Taylor Swift	37	2011-06-25
+The Story Of Us	Taylor Swift	66	2011-06-25
+Mean	Taylor Swift	31	2011-07-02
+The Story Of Us	Taylor Swift	67	2011-07-02
+Mean	Taylor Swift	34	2011-07-09
+The Story Of Us	Taylor Swift	67	2011-07-09
+Mean	Taylor Swift	39	2011-07-16
+The Story Of Us	Taylor Swift	72	2011-07-16
+Mean	Taylor Swift	44	2011-07-23
+The Story Of Us	Taylor Swift	69	2011-07-23
+Mean	Taylor Swift	55	2011-07-30
+The Story Of Us	Taylor Swift	83	2011-07-30
+Mean	Taylor Swift	61	2011-08-06
+The Story Of Us	Taylor Swift	97	2011-08-06
+Mean	Taylor Swift	63	2011-08-13
+Sparks Fly	Taylor Swift	84	2011-08-27
+Sparks Fly	Taylor Swift	70	2011-09-03
+Sparks Fly	Taylor Swift	67	2011-09-10
+Sparks Fly	Taylor Swift	68	2011-09-17
+Sparks Fly	Taylor Swift	64	2011-09-24
+Sparks Fly	Taylor Swift	57	2011-10-01
+Sparks Fly	Taylor Swift	59	2011-10-08
+Sparks Fly	Taylor Swift	60	2011-10-15
+Sparks Fly	Taylor Swift	54	2011-10-22
+Sparks Fly	Taylor Swift	50	2011-10-29
+Sparks Fly	Taylor Swift	49	2011-11-05
+Sparks Fly	Taylor Swift	46	2011-11-12
+Sparks Fly	Taylor Swift	42	2011-11-19
+If This Was A Movie	Taylor Swift	10	2011-11-26
+Ours	Taylor Swift	13	2011-11-26
+Superman	Taylor Swift	26	2011-11-26
+Sparks Fly	Taylor Swift	49	2011-11-26
+Haunted	Taylor Swift	98	2011-11-26
+If This Was A Movie	Taylor Swift	53	2011-12-03
+Sparks Fly	Taylor Swift	54	2011-12-03
+Ours	Taylor Swift	56	2011-12-03
+Sparks Fly	Taylor Swift	55	2011-12-10
+Ours	Taylor Swift	81	2011-12-10
+Sparks Fly	Taylor Swift	65	2011-12-17
+Ours	Taylor Swift	83	2011-12-17
+Ours	Taylor Swift	65	2011-12-24
+Sparks Fly	Taylor Swift	85	2011-12-24
+Ours	Taylor Swift	47	2011-12-31
+Safe & Sound	Taylor Swift Featuring The Civil Wars	30	2012-01-07
+Ours	Taylor Swift	45	2012-01-07
+Safe & Sound	Taylor Swift Featuring The Civil Wars	31	2012-01-14
+Ours	Taylor Swift	43	2012-01-14
+Safe & Sound	Taylor Swift Featuring The Civil Wars	40	2012-01-21
+Ours	Taylor Swift	43	2012-01-21
+Ours	Taylor Swift	47	2012-01-28
+Safe & Sound	Taylor Swift Featuring The Civil Wars	63	2012-01-28
+Ours	Taylor Swift	44	2012-02-04
+Safe & Sound	Taylor Swift Featuring The Civil Wars	91	2012-02-04
+Ours	Taylor Swift	46	2012-02-11
+Ours	Taylor Swift	42	2012-02-18
+Ours	Taylor Swift	47	2012-02-25
+Ours	Taylor Swift	46	2012-03-03
+Safe & Sound	Taylor Swift Featuring The Civil Wars	56	2012-03-03
+Ours	Taylor Swift	45	2012-03-10
+Safe & Sound	Taylor Swift Featuring The Civil Wars	70	2012-03-10
+Ours	Taylor Swift	48	2012-03-17
+Safe & Sound	Taylor Swift Featuring The Civil Wars	69	2012-03-17
+Ours	Taylor Swift	39	2012-03-24
+Safe & Sound	Taylor Swift Featuring The Civil Wars	60	2012-03-24
+Ours	Taylor Swift	41	2012-03-31
+Safe & Sound	Taylor Swift Featuring The Civil Wars	71	2012-03-31
+Eyes Open	Taylor Swift	19	2012-04-07
+Safe & Sound	Taylor Swift Featuring The Civil Wars	35	2012-04-07
+Ours	Taylor Swift	42	2012-04-07
+Eyes Open	Taylor Swift	26	2012-04-14
+Safe & Sound	Taylor Swift Featuring The Civil Wars	47	2012-04-14
+Eyes Open	Taylor Swift	29	2012-04-21
+Safe & Sound	Taylor Swift Featuring The Civil Wars	56	2012-04-21
+Eyes Open	Taylor Swift	23	2012-04-28
+Safe & Sound	Taylor Swift Featuring The Civil Wars	60	2012-04-28
+Eyes Open	Taylor Swift	21	2012-05-05
+Safe & Sound	Taylor Swift Featuring The Civil Wars	68	2012-05-05
+Eyes Open	Taylor Swift	20	2012-05-12
+Safe & Sound	Taylor Swift Featuring The Civil Wars	77	2012-05-12
+Both Of Us	B.o.B Featuring Taylor Swift	18	2012-05-19
+Eyes Open	Taylor Swift	23	2012-05-19
+Safe & Sound	Taylor Swift Featuring The Civil Wars	86	2012-05-19
+Eyes Open	Taylor Swift	36	2012-05-26
+Both Of Us	B.o.B Featuring Taylor Swift	75	2012-05-26
+Eyes Open	Taylor Swift	45	2012-06-02
+Both Of Us	B.o.B Featuring Taylor Swift	91	2012-06-02
+Eyes Open	Taylor Swift	60	2012-06-09
+Both Of Us	B.o.B Featuring Taylor Swift	81	2012-06-09
+Eyes Open	Taylor Swift	75	2012-06-16
+Both Of Us	B.o.B Featuring Taylor Swift	77	2012-06-16
+Both Of Us	B.o.B Featuring Taylor Swift	68	2012-06-23
+Eyes Open	Taylor Swift	87	2012-06-23
+Both Of Us	B.o.B Featuring Taylor Swift	56	2012-06-30
+Eyes Open	Taylor Swift	93	2012-06-30
+Both Of Us	B.o.B Featuring Taylor Swift	54	2012-07-07
+Both Of Us	B.o.B Featuring Taylor Swift	46	2012-07-14
+Both Of Us	B.o.B Featuring Taylor Swift	47	2012-07-21
+Both Of Us	B.o.B Featuring Taylor Swift	50	2012-07-28
+Both Of Us	B.o.B Featuring Taylor Swift	56	2012-08-04
+Both Of Us	B.o.B Featuring Taylor Swift	61	2012-08-11
+Both Of Us	B.o.B Featuring Taylor Swift	72	2012-08-18
+Both Of Us	B.o.B Featuring Taylor Swift	71	2012-08-25
+We Are Never Ever Getting Back Together	Taylor Swift	72	2012-08-25
+We Are Never Ever Getting Back Together	Taylor Swift	1	2012-09-01
+Both Of Us	B.o.B Featuring Taylor Swift	74	2012-09-01
+We Are Never Ever Getting Back Together	Taylor Swift	1	2012-09-08
+Both Of Us	B.o.B Featuring Taylor Swift	80	2012-09-08
+We Are Never Ever Getting Back Together	Taylor Swift	2	2012-09-15
+Both Of Us	B.o.B Featuring Taylor Swift	81	2012-09-15
+We Are Never Ever Getting Back Together	Taylor Swift	1	2012-09-22
+Ronan	Taylor Swift	16	2012-09-22
+Both Of Us	B.o.B Featuring Taylor Swift	83	2012-09-22
+We Are Never Ever Getting Back Together	Taylor Swift	2	2012-09-29
+Ronan	Taylor Swift	36	2012-09-29
+We Are Never Ever Getting Back Together	Taylor Swift	4	2012-10-06
+We Are Never Ever Getting Back Together	Taylor Swift	4	2012-10-13
+Begin Again	Taylor Swift	7	2012-10-13
+We Are Never Ever Getting Back Together	Taylor Swift	5	2012-10-20
+Red	Taylor Swift	6	2012-10-20
+Begin Again	Taylor Swift	52	2012-10-20
+I Knew You Were Trouble.	Taylor Swift	3	2012-10-27
+We Are Never Ever Getting Back Together	Taylor Swift	5	2012-10-27
+Red	Taylor Swift	54	2012-10-27
+Begin Again	Taylor Swift	70	2012-10-27
+We Are Never Ever Getting Back Together	Taylor Swift	4	2012-11-03
+State Of Grace	Taylor Swift	13	2012-11-03
+I Knew You Were Trouble.	Taylor Swift	23	2012-11-03
+Red	Taylor Swift	77	2012-11-03
+Begin Again	Taylor Swift	78	2012-11-03
+We Are Never Ever Getting Back Together	Taylor Swift	11	2012-11-10
+22	Taylor Swift	44	2012-11-10
+I Almost Do	Taylor Swift	65	2012-11-10
+Everything Has Changed	Taylor Swift Featuring Ed Sheeran	67	2012-11-10
+All Too Well	Taylor Swift	80	2012-11-10
+Stay Stay Stay	Taylor Swift	91	2012-11-10
+We Are Never Ever Getting Back Together	Taylor Swift	5	2012-11-17
+I Knew You Were Trouble.	Taylor Swift	59	2012-11-17
+Begin Again	Taylor Swift	68	2012-11-17
+Red	Taylor Swift	89	2012-11-17
+We Are Never Ever Getting Back Together	Taylor Swift	7	2012-11-24
+Begin Again	Taylor Swift	71	2012-11-24
+I Knew You Were Trouble.	Taylor Swift	73	2012-11-24
+We Are Never Ever Getting Back Together	Taylor Swift	9	2012-12-01
+Begin Again	Taylor Swift	73	2012-12-01
+I Knew You Were Trouble.	Taylor Swift	77	2012-12-01
+We Are Never Ever Getting Back Together	Taylor Swift	11	2012-12-08
+I Knew You Were Trouble.	Taylor Swift	47	2012-12-08
+Begin Again	Taylor Swift	78	2012-12-08
+We Are Never Ever Getting Back Together	Taylor Swift	15	2012-12-15
+I Knew You Were Trouble.	Taylor Swift	32	2012-12-15
+Begin Again	Taylor Swift	77	2012-12-15
+I Knew You Were Trouble.	Taylor Swift	15	2012-12-22
+We Are Never Ever Getting Back Together	Taylor Swift	25	2012-12-22
+Begin Again	Taylor Swift	78	2012-12-22
+I Knew You Were Trouble.	Taylor Swift	10	2012-12-29
+We Are Never Ever Getting Back Together	Taylor Swift	27	2012-12-29
+Begin Again	Taylor Swift	75	2012-12-29
+I Knew You Were Trouble.	Taylor Swift	4	2013-01-05
+We Are Never Ever Getting Back Together	Taylor Swift	29	2013-01-05
+Begin Again	Taylor Swift	76	2013-01-05
+I Knew You Were Trouble.	Taylor Swift	2	2013-01-12
+We Are Never Ever Getting Back Together	Taylor Swift	17	2013-01-12
+Begin Again	Taylor Swift	63	2013-01-12
+Red	Taylor Swift	80	2013-01-12
+22	Taylor Swift	84	2013-01-12
+I Knew You Were Trouble.	Taylor Swift	3	2013-01-19
+We Are Never Ever Getting Back Together	Taylor Swift	25	2013-01-19
+Begin Again	Taylor Swift	73	2013-01-19
+I Knew You Were Trouble.	Taylor Swift	4	2013-01-26
+We Are Never Ever Getting Back Together	Taylor Swift	39	2013-01-26
+The Moment I Knew	Taylor Swift	64	2013-01-26
+Begin Again	Taylor Swift	73	2013-01-26
+I Knew You Were Trouble.	Taylor Swift	5	2013-02-02
+We Are Never Ever Getting Back Together	Taylor Swift	46	2013-02-02
+Begin Again	Taylor Swift	73	2013-02-02
+I Knew You Were Trouble.	Taylor Swift	4	2013-02-09
+Begin Again	Taylor Swift	78	2013-02-09
+I Knew You Were Trouble.	Taylor Swift	5	2013-02-16
+Begin Again	Taylor Swift	75	2013-02-16
+I Knew You Were Trouble.	Taylor Swift	5	2013-02-23
+Highway Don't Care	Tim McGraw With Taylor Swift	59	2013-02-23
+Begin Again	Taylor Swift	71	2013-02-23
+I Knew You Were Trouble.	Taylor Swift	5	2013-03-02
+Begin Again	Taylor Swift	65	2013-03-02
+I Knew You Were Trouble.	Taylor Swift	4	2013-03-09
+I Knew You Were Trouble.	Taylor Swift	4	2013-03-16
+I Knew You Were Trouble.	Taylor Swift	6	2013-03-23
+Highway Don't Care	Tim McGraw With Taylor Swift	84	2013-03-23
+I Knew You Were Trouble.	Taylor Swift	7	2013-03-30
+22	Taylor Swift	64	2013-03-30
+Highway Don't Care	Tim McGraw With Taylor Swift	81	2013-03-30
+I Knew You Were Trouble.	Taylor Swift	10	2013-04-06
+22	Taylor Swift	26	2013-04-06
+Highway Don't Care	Tim McGraw With Taylor Swift	65	2013-04-06
+I Knew You Were Trouble.	Taylor Swift	12	2013-04-13
+22	Taylor Swift	33	2013-04-13
+Highway Don't Care	Tim McGraw With Taylor Swift	56	2013-04-13
+I Knew You Were Trouble.	Taylor Swift	16	2013-04-20
+22	Taylor Swift	34	2013-04-20
+Highway Don't Care	Tim McGraw With Taylor Swift	42	2013-04-20
+I Knew You Were Trouble.	Taylor Swift	19	2013-04-27
+Highway Don't Care	Tim McGraw With Taylor Swift	25	2013-04-27
+22	Taylor Swift	32	2013-04-27
+22	Taylor Swift	24	2013-05-04
+I Knew You Were Trouble.	Taylor Swift	25	2013-05-04
+Highway Don't Care	Tim McGraw With Taylor Swift	39	2013-05-04
+22	Taylor Swift	20	2013-05-11
+I Knew You Were Trouble.	Taylor Swift	34	2013-05-11
+Highway Don't Care	Tim McGraw With Taylor Swift	39	2013-05-11
+22	Taylor Swift	21	2013-05-18
+Highway Don't Care	Tim McGraw With Taylor Swift	29	2013-05-18
+I Knew You Were Trouble.	Taylor Swift	35	2013-05-18
+Highway Don't Care	Tim McGraw With Taylor Swift	23	2013-05-25
+22	Taylor Swift	25	2013-05-25
+I Knew You Were Trouble.	Taylor Swift	36	2013-05-25
+Highway Don't Care	Tim McGraw With Taylor Swift	24	2013-06-01
+22	Taylor Swift	26	2013-06-01
+I Knew You Were Trouble.	Taylor Swift	41	2013-06-01
+Highway Don't Care	Tim McGraw With Taylor Swift	22	2013-06-08
+22	Taylor Swift	23	2013-06-08
+I Knew You Were Trouble.	Taylor Swift	48	2013-06-08
+Highway Don't Care	Tim McGraw With Taylor Swift	22	2013-06-15
+22	Taylor Swift	24	2013-06-15
+I Knew You Were Trouble.	Taylor Swift	43	2013-06-15
+Highway Don't Care	Tim McGraw With Taylor Swift	25	2013-06-22
+22	Taylor Swift	26	2013-06-22
+I Knew You Were Trouble.	Taylor Swift	42	2013-06-22
+Everything Has Changed	Taylor Swift Featuring Ed Sheeran	91	2013-06-22
+Highway Don't Care	Tim McGraw With Taylor Swift	29	2013-06-29
+22	Taylor Swift	32	2013-06-29
+I Knew You Were Trouble.	Taylor Swift	49	2013-06-29
+Everything Has Changed	Taylor Swift Featuring Ed Sheeran	79	2013-06-29
+Highway Don't Care	Tim McGraw With Taylor Swift	35	2013-07-06
+22	Taylor Swift	41	2013-07-06
+I Knew You Were Trouble.	Taylor Swift	49	2013-07-06
+Highway Don't Care	Tim McGraw With Taylor Swift	43	2013-07-13
+22	Taylor Swift	49	2013-07-13
+Highway Don't Care	Tim McGraw With Taylor Swift	47	2013-07-20
+22	Taylor Swift	55	2013-07-20
+Highway Don't Care	Tim McGraw With Taylor Swift	56	2013-07-27
+22	Taylor Swift	65	2013-07-27
+Everything Has Changed	Taylor Swift Featuring Ed Sheeran	41	2013-08-10
+Everything Has Changed	Taylor Swift Featuring Ed Sheeran	61	2013-08-17
+Everything Has Changed	Taylor Swift Featuring Ed Sheeran	61	2013-08-24
+Red	Taylor Swift	100	2013-08-24
+Everything Has Changed	Taylor Swift Featuring Ed Sheeran	56	2013-08-31
+Red	Taylor Swift	85	2013-08-31
+Everything Has Changed	Taylor Swift Featuring Ed Sheeran	51	2013-09-07
+Red	Taylor Swift	86	2013-09-07
+Everything Has Changed	Taylor Swift Featuring Ed Sheeran	49	2013-09-14
+Red	Taylor Swift	82	2013-09-14
+Everything Has Changed	Taylor Swift Featuring Ed Sheeran	43	2013-09-21
+Red	Taylor Swift	76	2013-09-21
+Everything Has Changed	Taylor Swift Featuring Ed Sheeran	42	2013-09-28
+Red	Taylor Swift	76	2013-09-28
+Everything Has Changed	Taylor Swift Featuring Ed Sheeran	45	2013-10-05
+Red	Taylor Swift	76	2013-10-05
+Everything Has Changed	Taylor Swift Featuring Ed Sheeran	45	2013-10-12
+Red	Taylor Swift	75	2013-10-12
+Everything Has Changed	Taylor Swift Featuring Ed Sheeran	41	2013-10-19
+Red	Taylor Swift	73	2013-10-19
+Everything Has Changed	Taylor Swift Featuring Ed Sheeran	32	2013-10-26
+Red	Taylor Swift	73	2013-10-26
+Everything Has Changed	Taylor Swift Featuring Ed Sheeran	37	2013-11-02
+Red	Taylor Swift	73	2013-11-02
+Sweeter Than Fiction	Taylor Swift	34	2013-11-09
+Everything Has Changed	Taylor Swift Featuring Ed Sheeran	37	2013-11-09
+Red	Taylor Swift	76	2013-11-09
+Everything Has Changed	Taylor Swift Featuring Ed Sheeran	47	2013-11-16
+Red	Taylor Swift	76	2013-11-16
+Red	Taylor Swift	32	2013-11-23
+Everything Has Changed	Taylor Swift Featuring Ed Sheeran	55	2013-11-23
+Red	Taylor Swift	51	2013-11-30
+Everything Has Changed	Taylor Swift Featuring Ed Sheeran	58	2013-11-30
+Red	Taylor Swift	53	2013-12-07
+Red	Taylor Swift	51	2013-12-14
+Shake It Off	Taylor Swift	1	2014-09-06
+Shake It Off	Taylor Swift	1	2014-09-13
+Shake It Off	Taylor Swift	2	2014-09-20
+Shake It Off	Taylor Swift	2	2014-09-27
+Shake It Off	Taylor Swift	2	2014-10-04
+Shake It Off	Taylor Swift	2	2014-10-11
+Shake It Off	Taylor Swift	2	2014-10-18
+Shake It Off	Taylor Swift	2	2014-10-25
+Shake It Off	Taylor Swift	2	2014-11-01
+Out Of The Woods	Taylor Swift	18	2014-11-01
+Shake It Off	Taylor Swift	2	2014-11-08
+Welcome To New York	Taylor Swift	48	2014-11-08
+Out Of The Woods	Taylor Swift	77	2014-11-08
+Shake It Off	Taylor Swift	1	2014-11-15
+Blank Space	Taylor Swift	18	2014-11-15
+Style	Taylor Swift	60	2014-11-15
+Welcome To New York	Taylor Swift	69	2014-11-15
+Wildest Dreams	Taylor Swift	76	2014-11-15
+Bad Blood	Taylor Swift Featuring Kendrick Lamar	80	2014-11-15
+Shake It Off	Taylor Swift	1	2014-11-22
+Blank Space	Taylor Swift	13	2014-11-22
+Blank Space	Taylor Swift	1	2014-11-29
+Shake It Off	Taylor Swift	3	2014-11-29
+Blank Space	Taylor Swift	1	2014-12-06
+Shake It Off	Taylor Swift	5	2014-12-06
+Blank Space	Taylor Swift	1	2014-12-13
+Shake It Off	Taylor Swift	4	2014-12-13
+Blank Space	Taylor Swift	1	2014-12-20
+Shake It Off	Taylor Swift	6	2014-12-20
+Blank Space	Taylor Swift	1	2014-12-27
+Shake It Off	Taylor Swift	10	2014-12-27
+Style	Taylor Swift	76	2014-12-27
+Blank Space	Taylor Swift	1	2015-01-03
+Shake It Off	Taylor Swift	11	2015-01-03
+Blank Space	Taylor Swift	1	2015-01-10
+Shake It Off	Taylor Swift	9	2015-01-10
+Bad Blood	Taylor Swift Featuring Kendrick Lamar	78	2015-01-10
+Style	Taylor Swift	84	2015-01-10
+Blank Space	Taylor Swift	2	2015-01-17
+Shake It Off	Taylor Swift	7	2015-01-17
+Style	Taylor Swift	71	2015-01-17
+Blank Space	Taylor Swift	2	2015-01-24
+Shake It Off	Taylor Swift	9	2015-01-24
+Style	Taylor Swift	72	2015-01-24
+Blank Space	Taylor Swift	3	2015-01-31
+Shake It Off	Taylor Swift	5	2015-01-31
+Style	Taylor Swift	52	2015-01-31
+Blank Space	Taylor Swift	4	2015-02-07
+Shake It Off	Taylor Swift	5	2015-02-07
+Style	Taylor Swift	37	2015-02-07
+Blank Space	Taylor Swift	4	2015-02-14
+Shake It Off	Taylor Swift	9	2015-02-14
+Style	Taylor Swift	29	2015-02-14
+Blank Space	Taylor Swift	5	2015-02-21
+Shake It Off	Taylor Swift	10	2015-02-21
+Style	Taylor Swift	18	2015-02-21
+Blank Space	Taylor Swift	7	2015-02-28
+Style	Taylor Swift	10	2015-02-28
+Shake It Off	Taylor Swift	15	2015-02-28
+Blank Space	Taylor Swift	7	2015-03-07
+Style	Taylor Swift	8	2015-03-07
+Shake It Off	Taylor Swift	15	2015-03-07
+Wonderland	Taylor Swift	51	2015-03-07
+Style	Taylor Swift	7	2015-03-14
+Blank Space	Taylor Swift	8	2015-03-14
+Shake It Off	Taylor Swift	21	2015-03-14
+You Are In Love	Taylor Swift	83	2015-03-14
+Style	Taylor Swift	6	2015-03-21
+Blank Space	Taylor Swift	10	2015-03-21
+Shake It Off	Taylor Swift	24	2015-03-21
+New Romantics	Taylor Swift	71	2015-03-21
+Style	Taylor Swift	7	2015-03-28
+Blank Space	Taylor Swift	12	2015-03-28
+Shake It Off	Taylor Swift	22	2015-03-28
+Style	Taylor Swift	7	2015-04-04
+Blank Space	Taylor Swift	11	2015-04-04
+Shake It Off	Taylor Swift	24	2015-04-04
+Style	Taylor Swift	7	2015-04-11
+Blank Space	Taylor Swift	13	2015-04-11
+Shake It Off	Taylor Swift	24	2015-04-11
+Style	Taylor Swift	7	2015-04-18
+Blank Space	Taylor Swift	17	2015-04-18
+Shake It Off	Taylor Swift	26	2015-04-18
+Style	Taylor Swift	10	2015-04-25
+Blank Space	Taylor Swift	19	2015-04-25
+Shake It Off	Taylor Swift	27	2015-04-25
+Style	Taylor Swift	12	2015-05-02
+Blank Space	Taylor Swift	23	2015-05-02
+Shake It Off	Taylor Swift	32	2015-05-02
+Style	Taylor Swift	12	2015-05-09
+Blank Space	Taylor Swift	24	2015-05-09
+Shake It Off	Taylor Swift	33	2015-05-09
+Style	Taylor Swift	15	2015-05-16
+Blank Space	Taylor Swift	25	2015-05-16
+Shake It Off	Taylor Swift	34	2015-05-16
+Style	Taylor Swift	17	2015-05-23
+Blank Space	Taylor Swift	26	2015-05-23
+Shake It Off	Taylor Swift	35	2015-05-23
+Style	Taylor Swift	20	2015-05-30
+Blank Space	Taylor Swift	29	2015-05-30
+Shake It Off	Taylor Swift	34	2015-05-30
+Bad Blood	Taylor Swift Featuring Kendrick Lamar	53	2015-05-30
+Bad Blood	Taylor Swift Featuring Kendrick Lamar	1	2015-06-06
+Style	Taylor Swift	23	2015-06-06
+Blank Space	Taylor Swift	32	2015-06-06
+Shake It Off	Taylor Swift	34	2015-06-06
+Bad Blood	Taylor Swift Featuring Kendrick Lamar	2	2015-06-13
+Style	Taylor Swift	27	2015-06-13
+Blank Space	Taylor Swift	35	2015-06-13
+Shake It Off	Taylor Swift	39	2015-06-13
+Bad Blood	Taylor Swift Featuring Kendrick Lamar	2	2015-06-20
+Style	Taylor Swift	31	2015-06-20
+Blank Space	Taylor Swift	37	2015-06-20
+Shake It Off	Taylor Swift	38	2015-06-20
+Bad Blood	Taylor Swift Featuring Kendrick Lamar	2	2015-06-27
+Style	Taylor Swift	34	2015-06-27
+Shake It Off	Taylor Swift	39	2015-06-27
+Blank Space	Taylor Swift	42	2015-06-27
+Bad Blood	Taylor Swift Featuring Kendrick Lamar	2	2015-07-04
+Style	Taylor Swift	38	2015-07-04
+Shake It Off	Taylor Swift	40	2015-07-04
+Blank Space	Taylor Swift	42	2015-07-04
+Bad Blood	Taylor Swift Featuring Kendrick Lamar	2	2015-07-11
+Shake It Off	Taylor Swift	39	2015-07-11
+Style	Taylor Swift	41	2015-07-11
+Blank Space	Taylor Swift	45	2015-07-11
+Bad Blood	Taylor Swift Featuring Kendrick Lamar	4	2015-07-18
+Shake It Off	Taylor Swift	46	2015-07-18
+Style	Taylor Swift	48	2015-07-18
+Blank Space	Taylor Swift	50	2015-07-18
+Bad Blood	Taylor Swift Featuring Kendrick Lamar	4	2015-07-25
+Style	Taylor Swift	48	2015-07-25
+Shake It Off	Taylor Swift	50	2015-07-25
+Bad Blood	Taylor Swift Featuring Kendrick Lamar	4	2015-08-01
+Shake It Off	Taylor Swift	47	2015-08-01
+Style	Taylor Swift	48	2015-08-01
+Bad Blood	Taylor Swift Featuring Kendrick Lamar	4	2015-08-08
+Shake It Off	Taylor Swift	47	2015-08-08
+Bad Blood	Taylor Swift Featuring Kendrick Lamar	4	2015-08-15
+Shake It Off	Taylor Swift	50	2015-08-15
+Bad Blood	Taylor Swift Featuring Kendrick Lamar	6	2015-08-22
+Bad Blood	Taylor Swift Featuring Kendrick Lamar	9	2015-08-29
+Bad Blood	Taylor Swift Featuring Kendrick Lamar	12	2015-09-05
+Bad Blood	Taylor Swift Featuring Kendrick Lamar	18	2015-09-12
+Wildest Dreams	Taylor Swift	15	2015-09-19
+Bad Blood	Taylor Swift Featuring Kendrick Lamar	21	2015-09-19
+Wildest Dreams	Taylor Swift	12	2015-09-26
+Bad Blood	Taylor Swift Featuring Kendrick Lamar	25	2015-09-26
+Wildest Dreams	Taylor Swift	13	2015-10-03
+Bad Blood	Taylor Swift Featuring Kendrick Lamar	29	2015-10-03
+Wildest Dreams	Taylor Swift	10	2015-10-10
+Bad Blood	Taylor Swift Featuring Kendrick Lamar	37	2015-10-10
+Wildest Dreams	Taylor Swift	8	2015-10-17
+Bad Blood	Taylor Swift Featuring Kendrick Lamar	43	2015-10-17
+Wildest Dreams	Taylor Swift	9	2015-10-24
+Bad Blood	Taylor Swift Featuring Kendrick Lamar	46	2015-10-24
+Wildest Dreams	Taylor Swift	6	2015-10-31
+Bad Blood	Taylor Swift Featuring Kendrick Lamar	49	2015-10-31
+Wildest Dreams	Taylor Swift	5	2015-11-07
+Wildest Dreams	Taylor Swift	7	2015-11-14
+Wildest Dreams	Taylor Swift	8	2015-11-21
+Wildest Dreams	Taylor Swift	8	2015-11-28
+Wildest Dreams	Taylor Swift	9	2015-12-05
+Wildest Dreams	Taylor Swift	13	2015-12-12
+Wildest Dreams	Taylor Swift	14	2015-12-19
+Wildest Dreams	Taylor Swift	18	2015-12-26
+Wildest Dreams	Taylor Swift	23	2016-01-02
+Wildest Dreams	Taylor Swift	22	2016-01-09
+Wildest Dreams	Taylor Swift	18	2016-01-16
+Wildest Dreams	Taylor Swift	21	2016-01-23
+Out Of The Woods	Taylor Swift	46	2016-01-23
+Wildest Dreams	Taylor Swift	28	2016-01-30
+Out Of The Woods	Taylor Swift	55	2016-01-30
+Wildest Dreams	Taylor Swift	34	2016-02-06
+Out Of The Woods	Taylor Swift	50	2016-02-06
+Wildest Dreams	Taylor Swift	34	2016-02-13
+Out Of The Woods	Taylor Swift	44	2016-02-13
+Wildest Dreams	Taylor Swift	35	2016-02-20
+Out Of The Woods	Taylor Swift	49	2016-02-20
+Wildest Dreams	Taylor Swift	38	2016-02-27
+Out Of The Woods	Taylor Swift	51	2016-02-27
+Wildest Dreams	Taylor Swift	46	2016-03-05
+Out Of The Woods	Taylor Swift	53	2016-03-05
+Wildest Dreams	Taylor Swift	46	2016-03-12
+Out Of The Woods	Taylor Swift	77	2016-03-12
+New Romantics	Taylor Swift	73	2016-03-26
+New Romantics	Taylor Swift	69	2016-04-02
+New Romantics	Taylor Swift	62	2016-04-09
+New Romantics	Taylor Swift	61	2016-04-16
+New Romantics	Taylor Swift	62	2016-04-23
+New Romantics	Taylor Swift	46	2016-04-30
+New Romantics	Taylor Swift	78	2016-05-07
+I Don't Wanna Live Forever (Fifty Shades Darker)	Zayn / Taylor Swift	6	2016-12-31
+I Don't Wanna Live Forever (Fifty Shades Darker)	Zayn / Taylor Swift	18	2017-01-07
+I Don't Wanna Live Forever (Fifty Shades Darker)	Zayn / Taylor Swift	22	2017-01-14
+I Don't Wanna Live Forever (Fifty Shades Darker)	Zayn / Taylor Swift	14	2017-01-21
+I Don't Wanna Live Forever (Fifty Shades Darker)	Zayn / Taylor Swift	12	2017-01-28
+I Don't Wanna Live Forever (Fifty Shades Darker)	Zayn / Taylor Swift	8	2017-02-04
+I Don't Wanna Live Forever (Fifty Shades Darker)	Zayn / Taylor Swift	5	2017-02-11
+I Don't Wanna Live Forever (Fifty Shades Darker)	Zayn / Taylor Swift	3	2017-02-18
+I Don't Wanna Live Forever (Fifty Shades Darker)	Zayn / Taylor Swift	3	2017-02-25
+I Don't Wanna Live Forever (Fifty Shades Darker)	Zayn / Taylor Swift	2	2017-03-04
+I Don't Wanna Live Forever (Fifty Shades Darker)	Zayn / Taylor Swift	3	2017-03-11
+I Don't Wanna Live Forever (Fifty Shades Darker)	Zayn / Taylor Swift	3	2017-03-18
+I Don't Wanna Live Forever (Fifty Shades Darker)	Zayn / Taylor Swift	4	2017-03-25
+I Don't Wanna Live Forever (Fifty Shades Darker)	Zayn / Taylor Swift	4	2017-04-01
+I Don't Wanna Live Forever (Fifty Shades Darker)	Zayn / Taylor Swift	3	2017-04-08
+I Don't Wanna Live Forever (Fifty Shades Darker)	Zayn / Taylor Swift	7	2017-04-15
+I Don't Wanna Live Forever (Fifty Shades Darker)	Zayn / Taylor Swift	15	2017-04-22
+I Don't Wanna Live Forever (Fifty Shades Darker)	Zayn / Taylor Swift	26	2017-04-29
+I Don't Wanna Live Forever (Fifty Shades Darker)	Zayn / Taylor Swift	36	2017-05-06
+I Don't Wanna Live Forever (Fifty Shades Darker)	Zayn / Taylor Swift	32	2017-05-13
+I Don't Wanna Live Forever (Fifty Shades Darker)	Zayn / Taylor Swift	37	2017-05-20
+I Don't Wanna Live Forever (Fifty Shades Darker)	Zayn / Taylor Swift	46	2017-05-27
+I Don't Wanna Live Forever (Fifty Shades Darker)	Zayn / Taylor Swift	48	2017-06-03
+Look What You Made Me Do	Taylor Swift	77	2017-09-09
+Look What You Made Me Do	Taylor Swift	1	2017-09-16
+Look What You Made Me Do	Taylor Swift	1	2017-09-23
+...Ready For It?	Taylor Swift	4	2017-09-23
+Look What You Made Me Do	Taylor Swift	1	2017-09-30
+...Ready For It?	Taylor Swift	21	2017-09-30
+Look What You Made Me Do	Taylor Swift	3	2017-10-07
+...Ready For It?	Taylor Swift	34	2017-10-07
+Look What You Made Me Do	Taylor Swift	3	2017-10-14
+...Ready For It?	Taylor Swift	39	2017-10-14
+Look What You Made Me Do	Taylor Swift	5	2017-10-21
+...Ready For It?	Taylor Swift	47	2017-10-21
+Look What You Made Me Do	Taylor Swift	4	2017-10-28
+...Ready For It?	Taylor Swift	53	2017-10-28
+Look What You Made Me Do	Taylor Swift	10	2017-11-04
+...Ready For It?	Taylor Swift	52	2017-11-04
+Gorgeous	Taylor Swift	13	2017-11-11
+Look What You Made Me Do	Taylor Swift	25	2017-11-11
+...Ready For It?	Taylor Swift	46	2017-11-11
+...Ready For It?	Taylor Swift	19	2017-11-18
+Look What You Made Me Do	Taylor Swift	34	2017-11-18
+Gorgeous	Taylor Swift	69	2017-11-18
+Call It What You Want	Taylor Swift	27	2017-11-25
+...Ready For It?	Taylor Swift	30	2017-11-25
+Look What You Made Me Do	Taylor Swift	37	2017-11-25
+Gorgeous	Taylor Swift	85	2017-11-25
+...Ready For It?	Taylor Swift	18	2017-12-02
+Look What You Made Me Do	Taylor Swift	31	2017-12-02
+Call It What You Want	Taylor Swift	73	2017-12-02
+Gorgeous	Taylor Swift	89	2017-12-02
+...Ready For It?	Taylor Swift	24	2017-12-09
+Look What You Made Me Do	Taylor Swift	44	2017-12-09
+End Game	Taylor Swift Featuring Ed Sheeran & Future	86	2017-12-09
+...Ready For It?	Taylor Swift	31	2017-12-16
+Look What You Made Me Do	Taylor Swift	60	2017-12-16
+End Game	Taylor Swift Featuring Ed Sheeran & Future	83	2017-12-16
+End Game	Taylor Swift Featuring Ed Sheeran & Future	39	2017-12-23
+...Ready For It?	Taylor Swift	43	2017-12-23
+Look What You Made Me Do	Taylor Swift	72	2017-12-23
+...Ready For It?	Taylor Swift	37	2017-12-30
+End Game	Taylor Swift Featuring Ed Sheeran & Future	49	2017-12-30
+Look What You Made Me Do	Taylor Swift	70	2017-12-30
+End Game	Taylor Swift Featuring Ed Sheeran & Future	42	2018-01-03
+...Ready For It?	Taylor Swift	59	2018-01-03
+Look What You Made Me Do	Taylor Swift	76	2018-01-03
+End Game	Taylor Swift Featuring Ed Sheeran & Future	39	2018-01-13
+Look What You Made Me Do	Taylor Swift	55	2018-01-13
+...Ready For It?	Taylor Swift	58	2018-01-13
+End Game	Taylor Swift Featuring Ed Sheeran & Future	36	2018-01-20
+...Ready For It?	Taylor Swift	80	2018-01-20
+End Game	Taylor Swift Featuring Ed Sheeran & Future	18	2018-01-27
+...Ready For It?	Taylor Swift	96	2018-01-27
+End Game	Taylor Swift Featuring Ed Sheeran & Future	30	2018-02-03
+End Game	Taylor Swift Featuring Ed Sheeran & Future	43	2018-02-10
+End Game	Taylor Swift Featuring Ed Sheeran & Future	45	2018-02-17
+End Game	Taylor Swift Featuring Ed Sheeran & Future	65	2018-02-24
+End Game	Taylor Swift Featuring Ed Sheeran & Future	91	2018-03-03
+Delicate	Taylor Swift	84	2018-03-24
+Delicate	Taylor Swift	66	2018-03-31
+Delicate	Taylor Swift	52	2018-04-07
+Delicate	Taylor Swift	46	2018-04-14
+Delicate	Taylor Swift	54	2018-04-21
+Delicate	Taylor Swift	51	2018-04-28
+Delicate	Taylor Swift	52	2018-05-05
+Babe	Sugarland Featuring Taylor Swift	72	2018-05-05
+Delicate	Taylor Swift	56	2018-05-12
+Delicate	Taylor Swift	46	2018-05-19
+Delicate	Taylor Swift	36	2018-05-26
+Delicate	Taylor Swift	34	2018-06-02
+Delicate	Taylor Swift	28	2018-06-09
+Delicate	Taylor Swift	37	2018-06-16
+Delicate	Taylor Swift	25	2018-06-23
+Babe	Sugarland Featuring Taylor Swift	95	2018-06-23
+Delicate	Taylor Swift	27	2018-06-30
+Delicate	Taylor Swift	20	2018-07-07
+Delicate	Taylor Swift	23	2018-07-14
+Delicate	Taylor Swift	15	2018-07-21
+Delicate	Taylor Swift	12	2018-07-28
+Delicate	Taylor Swift	12	2018-08-04
+Delicate	Taylor Swift	13	2018-08-11
+Delicate	Taylor Swift	17	2018-08-18
+Delicate	Taylor Swift	16	2018-08-25
+Delicate	Taylor Swift	19	2018-09-01
+Delicate	Taylor Swift	25	2018-09-08
+Delicate	Taylor Swift	29	2018-09-15
+Delicate	Taylor Swift	25	2018-09-22
+Delicate	Taylor Swift	27	2018-09-29
+Delicate	Taylor Swift	29	2018-10-06
+Delicate	Taylor Swift	37	2018-10-13
+Delicate	Taylor Swift	33	2018-10-20
+Delicate	Taylor Swift	34	2018-10-27
+Delicate	Taylor Swift	38	2018-11-03
+Delicate	Taylor Swift	43	2018-11-10
+Delicate	Taylor Swift	49	2018-11-17
+ME!	Taylor Swift Featuring Brendon Urie	100	2019-05-04
+ME!	Taylor Swift Featuring Brendon Urie	2	2019-05-11
+ME!	Taylor Swift Featuring Brendon Urie	3	2019-05-18
+ME!	Taylor Swift Featuring Brendon Urie	8	2019-05-25
+ME!	Taylor Swift Featuring Brendon Urie	9	2019-06-01
+ME!	Taylor Swift Featuring Brendon Urie	11	2019-06-08
+ME!	Taylor Swift Featuring Brendon Urie	11	2019-06-15
+ME!	Taylor Swift Featuring Brendon Urie	14	2019-06-22
+You Need To Calm Down	Taylor Swift	2	2019-06-29
+ME!	Taylor Swift Featuring Brendon Urie	15	2019-06-29
+You Need To Calm Down	Taylor Swift	13	2019-07-06
+ME!	Taylor Swift Featuring Brendon Urie	31	2019-07-06
+You Need To Calm Down	Taylor Swift	13	2019-07-13
+ME!	Taylor Swift Featuring Brendon Urie	39	2019-07-13
+You Need To Calm Down	Taylor Swift	16	2019-07-20
+ME!	Taylor Swift Featuring Brendon Urie	52	2019-07-20
+You Need To Calm Down	Taylor Swift	15	2019-07-27
+ME!	Taylor Swift Featuring Brendon Urie	55	2019-07-27
+You Need To Calm Down	Taylor Swift	15	2019-08-03
+ME!	Taylor Swift Featuring Brendon Urie	58	2019-08-03
+The Archer	Taylor Swift	69	2019-08-03
+You Need To Calm Down	Taylor Swift	16	2019-08-10
+ME!	Taylor Swift Featuring Brendon Urie	61	2019-08-10
+The Archer	Taylor Swift	79	2019-08-10
+You Need To Calm Down	Taylor Swift	18	2019-08-17
+ME!	Taylor Swift Featuring Brendon Urie	66	2019-08-17
+You Need To Calm Down	Taylor Swift	18	2019-08-24
+ME!	Taylor Swift Featuring Brendon Urie	63	2019-08-24
+You Need To Calm Down	Taylor Swift	14	2019-08-31
+Lover	Taylor Swift	19	2019-08-31
+ME!	Taylor Swift Featuring Brendon Urie	58	2019-08-31
+You Need To Calm Down	Taylor Swift	4	2019-09-07
+Lover	Taylor Swift	10	2019-09-07
+ME!	Taylor Swift Featuring Brendon Urie	11	2019-09-07
+The Man	Taylor Swift	23	2019-09-07
+I Forgot That You Existed	Taylor Swift	28	2019-09-07
+Cruel Summer	Taylor Swift	29	2019-09-07
+The Archer	Taylor Swift	38	2019-09-07
+Paper Rings	Taylor Swift	45	2019-09-07
+Miss Americana & The Heartbreak Prince	Taylor Swift	49	2019-09-07
+I Think He Knows	Taylor Swift	51	2019-09-07
+Cornelia Street	Taylor Swift	57	2019-09-07
+London Boy	Taylor Swift	62	2019-09-07
+Soon You'll Get Better	Taylor Swift Featuring Dixie Chicks	63	2019-09-07
+Death By A Thousand Cuts	Taylor Swift	67	2019-09-07
+Afterglow	Taylor Swift	75	2019-09-07
+False God	Taylor Swift	77	2019-09-07
+Daylight	Taylor Swift	89	2019-09-07
+It's Nice To Have A Friend	Taylor Swift	92	2019-09-07
+You Need To Calm Down	Taylor Swift	12	2019-09-14
+Lover	Taylor Swift	23	2019-09-14
+ME!	Taylor Swift Featuring Brendon Urie	54	2019-09-14
+The Man	Taylor Swift	61	2019-09-14
+Cruel Summer	Taylor Swift	71	2019-09-14
+I Forgot That You Existed	Taylor Swift	74	2019-09-14
+You Need To Calm Down	Taylor Swift	24	2019-09-21
+Lover	Taylor Swift	49	2019-09-21
+The Man	Taylor Swift	96	2019-09-21
+You Need To Calm Down	Taylor Swift	21	2019-09-28
+Lover	Taylor Swift	49	2019-09-28
+You Need To Calm Down	Taylor Swift	23	2019-10-05
+Lover	Taylor Swift	44	2019-10-05
+You Need To Calm Down	Taylor Swift	27	2019-10-12
+Lover	Taylor Swift	45	2019-10-12
+You Need To Calm Down	Taylor Swift	28	2019-10-19
+Lover	Taylor Swift	34	2019-10-19
+You Need To Calm Down	Taylor Swift	33	2019-10-26
+Lover	Taylor Swift	37	2019-10-26
+You Need To Calm Down	Taylor Swift	37	2019-11-02
+Lover	Taylor Swift	38	2019-11-02
+Lover	Taylor Swift	48	2019-11-09
+You Need To Calm Down	Taylor Swift	52	2019-11-09
+Lover	Taylor Swift	43	2019-11-16
+You Need To Calm Down	Taylor Swift	46	2019-11-16
+Lover	Taylor Swift	26	2019-11-23
+Lover	Taylor Swift	15	2019-11-30
+Lover	Taylor Swift	19	2019-12-07
+Lover	Taylor Swift	32	2019-12-14
+Lover	Taylor Swift	40	2019-12-21
+Christmas Tree Farm	Taylor Swift	59	2019-12-21
+Lover	Taylor Swift	48	2019-12-28
+Lover	Taylor Swift	57	2020-01-04
+Lover	Taylor Swift	34	2020-01-11
+Lover	Taylor Swift	36	2020-01-18
+Lover	Taylor Swift	50	2020-01-25
+Only The Young	Taylor Swift	50	2020-02-15
+The Man	Taylor Swift	92	2020-03-07
+The Man	Taylor Swift	85	2020-03-14
+The Man	Taylor Swift	90	2020-04-11
+The Man	Taylor Swift	88	2020-04-18
+The Man	Taylor Swift	88	2020-04-25
+Cardigan	Taylor Swift	1	2020-08-08
+The 1	Taylor Swift	4	2020-08-08
+Exile	Taylor Swift Featuring Bon Iver	6	2020-08-08
+The Last Great American Dynasty	Taylor Swift	13	2020-08-08
+My Tears Ricochet	Taylor Swift	16	2020-08-08
+August	Taylor Swift	23	2020-08-08
+Mirrorball	Taylor Swift	26	2020-08-08
+Seven	Taylor Swift	35	2020-08-08
+Invisible String	Taylor Swift	37	2020-08-08
+This Is Me Trying	Taylor Swift	39	2020-08-08
+Betty	Taylor Swift	42	2020-08-08
+Illicit Affairs	Taylor Swift	44	2020-08-08
+Mad Woman	Taylor Swift	47	2020-08-08
+Epiphany	Taylor Swift	57	2020-08-08
+Peace	Taylor Swift	58	2020-08-08
+Hoax	Taylor Swift	71	2020-08-08
+Cardigan	Taylor Swift	8	2020-08-15
+The 1	Taylor Swift	23	2020-08-15
+Exile	Taylor Swift Featuring Bon Iver	36	2020-08-15
+The Last Great American Dynasty	Taylor Swift	66	2020-08-15
+My Tears Ricochet	Taylor Swift	69	2020-08-15
+August	Taylor Swift	73	2020-08-15
+Invisible String	Taylor Swift	85	2020-08-15
+Betty	Taylor Swift	91	2020-08-15
+Mirrorball	Taylor Swift	93	2020-08-15
+Seven	Taylor Swift	98	2020-08-15
+Cardigan	Taylor Swift	24	2020-08-22
+The 1	Taylor Swift	50	2020-08-22
+Exile	Taylor Swift Featuring Bon Iver	61	2020-08-22
+Cardigan	Taylor Swift	33	2020-08-29
+The 1	Taylor Swift	67	2020-08-29
+Exile	Taylor Swift Featuring Bon Iver	82	2020-08-29
+Cardigan	Taylor Swift	36	2020-09-05
+The 1	Taylor Swift	85	2020-09-05
+Exile	Taylor Swift Featuring Bon Iver	98	2020-09-05
+Cardigan	Taylor Swift	45	2020-09-12
+The 1	Taylor Swift	92	2020-09-12
+Cardigan	Taylor Swift	52	2020-09-19
+Cardigan	Taylor Swift	52	2020-09-26
+Cardigan	Taylor Swift	49	2020-10-03
+Cardigan	Taylor Swift	53	2020-10-10
+Cardigan	Taylor Swift	77	2020-10-17
+Cardigan	Taylor Swift	85	2020-10-24
+Cardigan	Taylor Swift	88	2020-10-31
+Cardigan	Taylor Swift	96	2020-11-07
+Willow	Taylor Swift	1	2020-12-26
+Champagne Problems	Taylor Swift	21	2020-12-26
+No Body, No Crime	Taylor Swift Featuring HAIM	34	2020-12-26
+'Tis The Damn Season	Taylor Swift	39	2020-12-26
+Gold Rush	Taylor Swift	40	2020-12-26
+Tolerate It	Taylor Swift	45	2020-12-26
+Happiness	Taylor Swift	52	2020-12-26
+Evermore	Taylor Swift Featuring Bon Iver	57	2020-12-26
+Ivy	Taylor Swift	61	2020-12-26
+Coney Island	Taylor Swift Featuring The National	63	2020-12-26
+Dorothea	Taylor Swift	67	2020-12-26
+Long Story Short	Taylor Swift	68	2020-12-26
+Cowboy Like Me	Taylor Swift	71	2020-12-26
+Marjorie	Taylor Swift	75	2020-12-26
+Closure	Taylor Swift	82	2020-12-26
+Willow	Taylor Swift	38	2021-01-02
+Champagne Problems	Taylor Swift	77	2021-01-02
+'Tis The Damn Season	Taylor Swift	91	2021-01-02
+No Body, No Crime	Taylor Swift Featuring HAIM	97	2021-01-02
+Willow	Taylor Swift	23	2021-01-09
+Willow	Taylor Swift	22	2021-01-16
+Willow	Taylor Swift	29	2021-01-23
+Willow	Taylor Swift	28	2021-01-30
+Willow	Taylor Swift	28	2021-02-06
+Willow	Taylor Swift	29	2021-02-13
+Willow	Taylor Swift	29	2021-02-20
+Love Story (Taylor's Version)	Taylor Swift	11	2021-02-27
+Willow	Taylor Swift	25	2021-02-27
+Willow	Taylor Swift	29	2021-03-06
+Willow	Taylor Swift	32	2021-03-13
+Willow	Taylor Swift	42	2021-03-20
+Willow	Taylor Swift	39	2021-03-27
+Willow	Taylor Swift	50	2021-04-03
+You All Over Me (Taylor's Version) (From The Vault)	Taylor Swift Featuring Maren Morris	51	2021-04-10
+Willow	Taylor Swift	59	2021-04-10
+Willow	Taylor Swift	60	2021-04-17
+Mr. Perfectly Fine (Taylor's Version) (From The Vault)	Taylor Swift	90	2021-04-17
+Mr. Perfectly Fine (Taylor's Version) (From The Vault)	Taylor Swift	30	2021-04-24
+Love Story (Taylor's Version)	Taylor Swift	52	2021-04-24
+Willow	Taylor Swift	62	2021-04-24
+Forever & Always (Taylor's Version)	Taylor Swift	65	2021-04-24
+Fearless (Taylor's Version)	Taylor Swift	71	2021-04-24
+You All Over Me (Taylor's Version) (From The Vault)	Taylor Swift Featuring Maren Morris	72	2021-04-24
+You Belong With Me (Taylor's Version)	Taylor Swift	75	2021-04-24
+Fifteen (Taylor's Version)	Taylor Swift	88	2021-04-24
+The Way I Loved You (Taylor's Version)	Taylor Swift	94	2021-04-24
+Willow	Taylor Swift	60	2021-05-01
+Mr. Perfectly Fine (Taylor's Version) (From The Vault)	Taylor Swift	90	2021-05-01
+Willow	Taylor Swift	61	2021-05-08
+Renegade	Big Red Machine Featuring Taylor Swift	73	2021-07-17
+Wildest Dreams (Taylor's Version)	Taylor Swift	37	2021-10-02
+All Too Well (Taylor's Version)	Taylor Swift	1	2021-11-27
+State Of Grace (Taylor's Version)	Taylor Swift	18	2021-11-27
+I Bet You Think About Me (Taylor's Version) (From The Vault)	Taylor Swift Featuring Chris Stapleton	22	2021-11-27
+Red (Taylor's Version)	Taylor Swift	25	2021-11-27
+Nothing New (Taylor's Version) (From The Vault)	Taylor Swift Featuring Phoebe Bridgers	43	2021-11-27
+Message In A Bottle (Taylor's Version) (From The Vault)	Taylor Swift	45	2021-11-27
+I Knew You Were Trouble (Taylor's Version)	Taylor Swift	46	2021-11-27
+Run (Taylor's Version) (From The Vault)	Taylor Swift Featuring Ed Sheeran	47	2021-11-27
+Better Man (Taylor's Version) (From The Vault)	Taylor Swift	51	2021-11-27
+22 (Taylor's Version)	Taylor Swift	52	2021-11-27
+Treacherous (Taylor's Version)	Taylor Swift	54	2021-11-27
+We Are Never Ever Getting Back Together (Taylor's Version)	Taylor Swift	55	2021-11-27
+I Almost Do (Taylor's Version)	Taylor Swift	59	2021-11-27
+The Very First Night (Taylor's Version) (From The Vault)	Taylor Swift	61	2021-11-27
+Everything Has Changed (Taylor's Version)	Taylor Swift Featuring Ed Sheeran	63	2021-11-27
+The Last Time (Taylor's Version)	Taylor Swift Featuring Gary Lightbody Of Snow Patrol	66	2021-11-27
+Stay Stay Stay (Taylor's Version)	Taylor Swift	67	2021-11-27
+Babe (Taylor's Version) (From The Vault)	Taylor Swift	69	2021-11-27
+Holy Ground (Taylor's Version)	Taylor Swift	76	2021-11-27
+Begin Again (Taylor's Version)	Taylor Swift	77	2021-11-27
+Forever Winter (Taylor's Version) (From The Vault)	Taylor Swift	79	2021-11-27
+The Moment I Knew (Taylor's Version)	Taylor Swift	83	2021-11-27
+The Lucky One (Taylor's Version)	Taylor Swift	84	2021-11-27
+Sad Beautiful Tragic (Taylor's Version)	Taylor Swift	85	2021-11-27
+Come Back...Be Here (Taylor's Version)	Taylor Swift	87	2021-11-27
+Starlight (Taylor's Version)	Taylor Swift	90	2021-11-27
+All Too Well (Taylor's Version)	Taylor Swift	4	2021-12-04
+I Bet You Think About Me (Taylor's Version) (From The Vault)	Taylor Swift Featuring Chris Stapleton	70	2021-12-04
+Message In A Bottle (Taylor's Version) (From The Vault)	Taylor Swift	74	2021-12-04
+Red (Taylor's Version)	Taylor Swift	86	2021-12-04
+State Of Grace (Taylor's Version)	Taylor Swift	88	2021-12-04
+All Too Well (Taylor's Version)	Taylor Swift	21	2021-12-11
+Message In A Bottle (Taylor's Version) (From The Vault)	Taylor Swift	78	2021-12-11
+Christmas Tree Farm (Old Timey Version)	Taylor Swift	82	2021-12-11
+All Too Well (Taylor's Version)	Taylor Swift	42	2021-12-18
+Christmas Tree Farm (Old Timey Version)	Taylor Swift	74	2021-12-18
+Message In A Bottle (Taylor's Version) (From The Vault)	Taylor Swift	82	2021-12-18
+All Too Well (Taylor's Version)	Taylor Swift	59	2021-12-25
+Christmas Tree Farm (Old Timey Version)	Taylor Swift	81	2021-12-25
+Message In A Bottle (Taylor's Version) (From The Vault)	Taylor Swift	89	2021-12-25
+Christmas Tree Farm (Old Timey Version)	Taylor Swift	62	2022-01-01
+All Too Well (Taylor's Version)	Taylor Swift	68	2022-01-01
+Message In A Bottle (Taylor's Version) (From The Vault)	Taylor Swift	93	2022-01-01
+All Too Well (Taylor's Version)	Taylor Swift	66	2022-01-08
+Christmas Tree Farm (Old Timey Version)	Taylor Swift	69	2022-01-08
+Message In A Bottle (Taylor's Version) (From The Vault)	Taylor Swift	80	2022-01-08
+All Too Well (Taylor's Version)	Taylor Swift	55	2022-01-15
+Message In A Bottle (Taylor's Version) (From The Vault)	Taylor Swift	63	2022-01-15
+All Too Well (Taylor's Version)	Taylor Swift	82	2022-01-22
+Message In A Bottle (Taylor's Version) (From The Vault)	Taylor Swift	88	2022-01-22
+Message In A Bottle (Taylor's Version) (From The Vault)	Taylor Swift	73	2022-01-29
+All Too Well (Taylor's Version)	Taylor Swift	74	2022-01-29
+Message In A Bottle (Taylor's Version) (From The Vault)	Taylor Swift	57	2022-02-05
+All Too Well (Taylor's Version)	Taylor Swift	77	2022-02-05
+Message In A Bottle (Taylor's Version) (From The Vault)	Taylor Swift	61	2022-02-12
+All Too Well (Taylor's Version)	Taylor Swift	75	2022-02-12
+Message In A Bottle (Taylor's Version) (From The Vault)	Taylor Swift	68	2022-02-19
+All Too Well (Taylor's Version)	Taylor Swift	84	2022-02-19
+The Joker And The Queen	Ed Sheeran Featuring Taylor Swift	21	2022-02-26
+All Too Well (Taylor's Version)	Taylor Swift	96	2022-02-26
+The Joker And The Queen	Ed Sheeran Featuring Taylor Swift	64	2022-03-05
+All Too Well (Taylor's Version)	Taylor Swift	99	2022-03-05
+The Joker And The Queen	Ed Sheeran Featuring Taylor Swift	75	2022-03-12
+This Love (Taylor's Version)	Taylor Swift	50	2022-05-21
+Carolina	Taylor Swift	60	2022-07-09
+Anti-Hero	Taylor Swift	1	2022-11-05
+Lavender Haze	Taylor Swift	2	2022-11-05
+Maroon	Taylor Swift	3	2022-11-05
+Snow On The Beach	Taylor Swift Featuring Lana Del Rey	4	2022-11-05
+Midnight Rain	Taylor Swift	5	2022-11-05
+Bejeweled	Taylor Swift	6	2022-11-05
+Question...?	Taylor Swift	7	2022-11-05
+You're On Your Own, Kid	Taylor Swift	8	2022-11-05
+Karma	Taylor Swift	9	2022-11-05
+Vigilante Shit	Taylor Swift	10	2022-11-05
+Mastermind	Taylor Swift	13	2022-11-05
+Labyrinth	Taylor Swift	14	2022-11-05
+Sweet Nothing	Taylor Swift	15	2022-11-05
+Would've, Could've, Should've	Taylor Swift	20	2022-11-05
+Bigger Than The Whole Sky	Taylor Swift	21	2022-11-05
+The Great War	Taylor Swift	26	2022-11-05
+Paris	Taylor Swift	32	2022-11-05
+High Infidelity	Taylor Swift	33	2022-11-05
+Glitch	Taylor Swift	41	2022-11-05
+Dear Reader	Taylor Swift	45	2022-11-05
+Anti-Hero	Taylor Swift	1	2022-11-12
+Lavender Haze	Taylor Swift	6	2022-11-12
+Midnight Rain	Taylor Swift	7	2022-11-12
+Bejeweled	Taylor Swift	9	2022-11-12
+Maroon	Taylor Swift	12	2022-11-12
+Snow On The Beach	Taylor Swift Featuring Lana Del Rey	16	2022-11-12
+Karma	Taylor Swift	17	2022-11-12
+You're On Your Own, Kid	Taylor Swift	20	2022-11-12
+Vigilante Shit	Taylor Swift	24	2022-11-12
+Question...?	Taylor Swift	32	2022-11-12
+Mastermind	Taylor Swift	38	2022-11-12
+Labyrinth	Taylor Swift	42	2022-11-12
+Sweet Nothing	Taylor Swift	45	2022-11-12
+Would've, Could've, Should've	Taylor Swift	59	2022-11-12
+Bigger Than The Whole Sky	Taylor Swift	68	2022-11-12
+The Great War	Taylor Swift	71	2022-11-12
+Paris	Taylor Swift	73	2022-11-12
+High Infidelity	Taylor Swift	79	2022-11-12
+Glitch	Taylor Swift	86	2022-11-12
+Dear Reader	Taylor Swift	97	2022-11-12
+Anti-Hero	Taylor Swift	1	2022-11-19 00:00:00
+Rich Flex	Drake & 21 Savage	2	2022-11-19 00:00:00
+Major Distribution	Drake & 21 Savage	3	2022-11-19 00:00:00
+On BS	Drake & 21 Savage	4	2022-11-19 00:00:00
+Spin Bout U	Drake & 21 Savage	5	2022-11-19 00:00:00
+Pussy & Millions	Drake & 21 Savage Featuring Travis Scott	6	2022-11-19 00:00:00
+Privileged Rappers	Drake & 21 Savage	7	2022-11-19 00:00:00
+Circo Loco	Drake & 21 Savage	8	2022-11-19 00:00:00
+BackOutsideBoyz	Drake	9	2022-11-19 00:00:00
+Unholy	Sam Smith & Kim Petras	10	2022-11-19 00:00:00
+Hours In Silence	Drake & 21 Savage	11	2022-11-19 00:00:00
+Broke Boys	Drake & 21 Savage	12	2022-11-19 00:00:00
+Bad Habit	Steve Lacy	13	2022-11-19 00:00:00
+Treacherous Twins	Drake & 21 Savage	14	2022-11-19 00:00:00
+Middle Of The Ocean	Drake	15	2022-11-19 00:00:00
+Jumbotron Shit Poppin	Drake	16	2022-11-19 00:00:00
+As It Was	Harry Styles	17	2022-11-19 00:00:00
+More M’s	Drake & 21 Savage	18	2022-11-19 00:00:00
+I Guess It's Fuck Me	Drake	19	2022-11-19 00:00:00
+I'm Good (Blue)	David Guetta & Bebe Rexha	20	2022-11-19 00:00:00
+Super Freaky Girl	Nicki Minaj	21	2022-11-19 00:00:00
+Lift Me Up	Rihanna	22	2022-11-19 00:00:00
+Lavender Haze	Taylor Swift	23	2022-11-19 00:00:00
+I Like You (A Happier Song)	Post Malone Featuring Doja Cat	24	2022-11-19 00:00:00
+You Proof	Morgan Wallen	25	2022-11-19 00:00:00
+Something In The Orange	Zach Bryan	26	2022-11-19 00:00:00
+3AM On Glenwood	21 Savage	27	2022-11-19 00:00:00
+I Ain't Worried	OneRepublic	28	2022-11-19 00:00:00
+Vegas	Doja Cat	29	2022-11-19 00:00:00
+Midnight Rain	Taylor Swift	30	2022-11-19 00:00:00
+Jimmy Cooks	Drake Featuring 21 Savage	31	2022-11-19 00:00:00
+Under The Influence	Chris Brown	32	2022-11-19 00:00:00
+Bejeweled	Taylor Swift	33	2022-11-19 00:00:00
+Die For You	The Weeknd	34	2022-11-19 00:00:00
+Sunroof	Nicky Youre & dazy	35	2022-11-19 00:00:00
+Maroon	Taylor Swift	36	2022-11-19 00:00:00
+Wasted On You	Morgan Wallen	37	2022-11-19 00:00:00
+Cuff It	Beyonce	38	2022-11-19 00:00:00
+Karma	Taylor Swift	39	2022-11-19 00:00:00
+Snow On The Beach	Taylor Swift Featuring Lana Del Rey	40	2022-11-19 00:00:00
+Wait For U	Future Featuring Drake & Tems	41	2022-11-19 00:00:00
+You're On Your Own, Kid	Taylor Swift	42	2022-11-19 00:00:00
+Titi Me Pregunto	Bad Bunny	43	2022-11-19 00:00:00
+Just Wanna Rock	Lil Uzi Vert	44	2022-11-19 00:00:00
+The Kind Of Love We Make	Luke Combs	45	2022-11-19 00:00:00
+Shirt	SZA	46	2022-11-19 00:00:00
+She Had Me At Heads Carolina	Cole Swindell	47	2022-11-19 00:00:00
+About Damn Time	Lizzo	48	2022-11-19 00:00:00
+Tomorrow 2	GloRilla & Cardi B	49	2022-11-19 00:00:00
+Unstoppable	Sia	50	2022-11-19 00:00:00
+Vigilante Shit	Taylor Swift	51	2022-11-19 00:00:00
+Thank God	Kane Brown With Katelyn Brown	52	2022-11-19 00:00:00
+Die For You	Joji	53	2022-11-19 00:00:00
+5 Foot 9	Tyler Hubbard	54	2022-11-19 00:00:00
+Hold Me Closer	Elton John & Britney Spears	55	2022-11-19 00:00:00
+Question...?	Taylor Swift	56	2022-11-19 00:00:00
+Golden Hour	JVKE	57	2022-11-19 00:00:00
+Rock And A Hard Place	Bailey Zimmerman	58	2022-11-19 00:00:00
+Fall In Love	Bailey Zimmerman	59	2022-11-19 00:00:00
+Half Of Me	Thomas Rhett Featuring Riley Green	60	2022-11-19 00:00:00
+Made You Look	Meghan Trainor	61	2022-11-19 00:00:00
+Hotel Lobby (Unc And Phew)	Quavo & Takeoff	62	2022-11-19 00:00:00
+What My World Spins Around	Jordan Davis	63	2022-11-19 00:00:00
+Until I Found You	Stephen Sanchez	64	2022-11-19 00:00:00
+Mastermind	Taylor Swift	65	2022-11-19 00:00:00
+Victoria’s Secret	Jax	66	2022-11-19 00:00:00
+Labyrinth	Taylor Swift	67	2022-11-19 00:00:00
+Star Walkin' (League Of Legends Worlds Anthem)	Lil Nas X	68	2022-11-19 00:00:00
+Son Of A Sinner	Jelly Roll	69	2022-11-19 00:00:00
+Don't Come Lookin'	Jackson Dean	70	2022-11-19 00:00:00
+Sweet Nothing	Taylor Swift	71	2022-11-19 00:00:00
+Romantic Homicide	d4vd	72	2022-11-19 00:00:00
+California Breeze	Lil Baby	73	2022-11-19 00:00:00
+Billie Eilish.	Armani White	74	2022-11-19 00:00:00
+Wait In The Truck	HARDY Featuring Lainey Wilson	75	2022-11-19 00:00:00
+Would've, Could've, Should've	Taylor Swift	76	2022-11-19 00:00:00
+Heyy	Lil Baby	77	2022-11-19 00:00:00
+Wishful Drinking	Ingrid Andress With Sam Hunt	78	2022-11-19 00:00:00
+Free Mind	Tems	79	2022-11-19 00:00:00
+Music For A Sushi Restaurant	Harry Styles	80	2022-11-19 00:00:00
+No Se Va	Grupo Frontera	81	2022-11-19 00:00:00
+Whiskey On You	Nate Smith	82	2022-11-19 00:00:00
+My Mind & Me	Selena Gomez	83	2022-11-19 00:00:00
+Forever	Lil Baby Featuring Fridayy	84	2022-11-19 00:00:00
+Bigger Than The Whole Sky	Taylor Swift	85	2022-11-19 00:00:00
+All Mine	Brent Faiyaz	86	2022-11-19 00:00:00
+The Great War	Taylor Swift	87	2022-11-19 00:00:00
+Calm Down	Rema & Selena Gomez	88	2022-11-19 00:00:00
+Miss You	Oliver Tree & Robin Schulz	89	2022-11-19 00:00:00
+Paris	Taylor Swift	90	2022-11-19 00:00:00
+Last Last	Burna Boy	91	2022-11-19 00:00:00
+Freestyle	Lil Baby	92	2022-11-19 00:00:00
+Pick Me Up	Gabby Barrett	93	2022-11-19 00:00:00
+In My Head	Juice WRLD	94	2022-11-19 00:00:00
+Country On	Luke Bryan	95	2022-11-19 00:00:00
+La Bachata	Manuel Turizo	96	2022-11-19 00:00:00
+2 Be Loved (Am I Ready)	Lizzo	97	2022-11-19 00:00:00
+High Infidelity	Taylor Swift	98	2022-11-19 00:00:00
+Gotta Move On	Diddy & Bryson Tiller	99	2022-11-19 00:00:00
+Staying Alive	DJ Khaled Featuring Drake & Lil Baby	100	2022-11-19 00:00:00
